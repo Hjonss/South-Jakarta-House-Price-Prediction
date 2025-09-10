@@ -1,0 +1,6 @@
+Cara menjalankan aplikasi:
+1. buka folder yang terdapat file app.py, static, templates, model, dan scalernya
+2. buka command prompt pada folder tersebut
+3. apabila belum menginstalasi flask, ketik pip install flask (kalau sudah pernah, maka tidak perlu)
+4. ketik python app.py lalu tekan enter
+5. lalu buka link yang diberikan (contoh: http://127.0.0.1:5000) dengan menekan ctrl + klik kiri pada link
